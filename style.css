@@ -1,3 +1,9 @@
 .body{
     background-color: antiquewhite;
 }
+.container{
+    margin: 20px;
+    padding: 10px;
+    outline:20px solid green;
+    border: 2px solid black;
+}
