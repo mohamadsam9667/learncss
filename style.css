@@ -6,4 +6,5 @@
     padding: 10px;
     outline:20px solid green;
     border: 2px solid black;
+    outline-offset: 5px;
 }
